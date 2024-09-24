@@ -1,0 +1,15 @@
+click==8.1.7
+fastai==2.7.17
+labelbox==5.0.0
+matplotlib==3.8.4
+numpy==2.1.1
+opencv_python==4.10.0.84
+pandas==2.2.3
+Pillow==10.4.0
+python-dotenv==1.0.1
+scikit_learn==1.4.2
+scipy==1.14.1
+seaborn==0.13.2
+setuptools==69.5.1
+torch==2.4.1
+torchvision==0.19.1
