@@ -9,25 +9,22 @@ Project Organization
     ├── LICENSE
     ├── README.md          <- The top-level README for developers using this project.
     ├── data
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
+    │   ├── processed      <- processed, canonical data sets for modeling, to be added.
+    │   └── raw            <- The original, immutable data dump, to be added.
     │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
+    ├── models             <- Trained and serialized models, to be added
     │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
+    ├── references         <- Data dictionaries, manuals, and all other explanatory materials, to be added.
     │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
+    ├── reports            <- Generated analysis, link to publication.
+    │   └── figures        <- Generated graphics and figures to be used in reporting.
     │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
-    │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
+    ├── requirements.txt   <- The requirements file for reproducing the analysis environment.
     │
     ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
     │
     └──  src                <- Source code for use in this project.
-        ├── __init__.py    <- Makes src a Python module
+        ├── __init__.py     <- Makes src a Python module
         │
         ├── train          <- Script to download, preprocess, create the data set, train, cross-validate, evaluate and visualize from training data
         │   └── train_and_evaluate.py
