@@ -1,7 +1,7 @@
 Infarct size quantification from TTC images
 ==============================
 
-This project uses a deep learning segmentation model to quantify infarct size from TTC-stained heart slices in pig studies of ischemia/reperfusion.
+This project uses a deep learning segmentation model to quantify infarct size from TTC-stained heart slices in pig studies of ischemia/reperfusion. Please find the original publication at: https://link.springer.com/article/10.1007/s00395-024-01081-x.
 
 Project Organization
 ------------
